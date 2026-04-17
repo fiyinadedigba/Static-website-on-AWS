@@ -1,6 +1,15 @@
 # staticwebsiteAWS
+# Project Description
 
-# Created S3 bucket
+This project shows how to deploy and deliver a static website using AWS infrastructure with secure and optimized global access.
+
+Website files are stored in an Amazon S3 bucket, which is configured for static hosting. Access to the content is secured through bucket policies.
+
+To improve performance and scalability, a CloudFront distribution is set up to cache and deliver content efficiently across edge locations. Additional configurations such as caching behavior, TTL settings, and cache invalidation can be applied for fine-grained control.
+
+The website is ultimately accessed through the CloudFront distribution endpoint.
+
+# Created S3 bucket in the AWS console
 
 <img width="1370" height="367" alt="Screenshot 2026-04-17 at 13 00 48" src="https://github.com/user-attachments/assets/7992ab75-ca78-4b68-8ff2-a7d6e3b3c610" />
 
