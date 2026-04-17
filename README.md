@@ -34,6 +34,7 @@
 
 <img width="1440" height="900" alt="Screenshot 2026-04-17 at 13 01 50" src="https://github.com/user-attachments/assets/0a70d569-d190-495d-afa6-6a34c3bbad1b" />
 
+> https://d1srz7kh187p7c.cloudfront.net/
 
 <img width="1440" height="900" alt="Screenshot 2026-04-17 at 13 01 45" src="https://github.com/user-attachments/assets/75b0c069-2fe3-43df-8972-f89e2b245361" />
 
