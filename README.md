@@ -9,6 +9,8 @@ To improve performance and scalability, a CloudFront distribution is set up to c
 
 The website is ultimately accessed through the CloudFront distribution endpoint.
 
+Bucket website endpoint URL:  http://my-1993fi-bucket.s3-website-us-east-1.amazonaws.com/index.html
+
 # Created S3 bucket in the AWS console
 
 <img width="1370" height="367" alt="Screenshot 2026-04-17 at 13 00 48" src="https://github.com/user-attachments/assets/7992ab75-ca78-4b68-8ff2-a7d6e3b3c610" />
