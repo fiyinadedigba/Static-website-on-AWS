@@ -30,6 +30,8 @@
 
 # Web Browser Access
 
+> http://my-1993fi-bucket.s3-website-us-east-1.amazonaws.com/index.html
+
 <img width="1440" height="900" alt="Screenshot 2026-04-17 at 13 01 50" src="https://github.com/user-attachments/assets/0a70d569-d190-495d-afa6-6a34c3bbad1b" />
 
 
